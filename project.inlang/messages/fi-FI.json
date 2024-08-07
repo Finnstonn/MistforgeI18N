@@ -76,7 +76,7 @@
 	"guide_draft": "Luonnos",
 	"view_guide_delete": "Poista",
 	"view_guide_delete_confirm": "Haluatko varmasti poistaa käyttäjän \"{user}\" ohjeen \"{guide}\"? Tätä toimintoa ei voi peruuttaa.",
-	"view_news_article_delete_confirm": "Haluatko varmasti poistaa käyttäjän \"{user}\" ohjeen \"{article}\"? Tätä toimintoa ei voi peruuttaa.",
+	"view_news_article_delete_confirm": "Haluatko varmasti poistaa käyttäjän \"{user}\" artikkelin \"{article}\"? Tätä toimintoa ei voi peruuttaa.",
 	"hero_select_all_heroes": "Kaikki",
 	"header_user_admin": "Admin",
 	"admin_users_id": "Id",
@@ -89,8 +89,8 @@
 	"admin_users_ban": "Estä",
 	"list_empty": "Täällä ei ole vielä mitään nähtävää.",
 	"guide_new": "Uusi ohje",
-	"news_article_new": "Uusi artikkeli",
+	"news_article_new": "Uusi Artikkeli",
 	"edit_guide_save": "Tallenna",
-	"build_new": "Uusi pelityyliohje",
+	"build_new": "Uusi Pelityyliohje",
 	"header_heroes": "Hahmot"
 }
